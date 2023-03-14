@@ -1,0 +1,63 @@
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+.swag-section {
+  position:absolute;
+  background-size: cover;
+  background-image: url("./../Images/Mental-Anguish.png");
+  height: 100vh;
+  width: calc(100vw - 250px);
+  top: 0px;
+  right: 0px;
+}
+
+.swag-curtain {
+  background-color: rgba(0,0,0,.5);
+  height: 100%;
+}
+
+.quote-text {
+  padding: 20% 0 0 50px;
+  transform: translate(0, -35%);
+  color: rgb(255, 255, 255);
+  font-size: 26px; 
+  font-family: "Norse";
+  text-align: center;
+}
+
+
+ .quote{
+  text-align: left;
+  margin-top: 25%;
+  color: rgb(148, 5, 5);
+ }
+
+ .quote2{
+  text-align: center;
+  margin-left: -5%;
+  color: antiquewhite;
+ }
+
+ .quote1{
+  text-align: right;
+  margin-right: 1%;
+  margin-top: -210px;
+  color: firebrick;
+ }
+
+ .meditationbox{
+  padding: 20% 0 0 50px;
+  transform: translate(0, -35%);
+  color: rgb(255, 255, 255);
+  font-size: 26px; 
+  font-family: "Norse";
+  text-align: center;
+  margin-top: 10%;
+  margin-right: 10%;
+  color:lightslategray
+ }
+
+ .artwork2{
+  color: aliceblue;
+  text-align: center;
+  margin-top: 13%;
+  font-size: 20px;
+}
