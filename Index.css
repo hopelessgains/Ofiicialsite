@@ -1,0 +1,26 @@
+
+
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+
+.about-section {
+  position: absolute;
+  background-size: cover;
+  background-image: url("../Images/viking-dude.webp");
+  height: 100vh;
+  width: calc(100vw - 250px);
+  top: 0px;
+  right: 0px;
+}
+
+.about-curtain {
+  background-color: rgba(0,0,0,.5);
+  height: 100%;
+}
+
+.about-text {
+  padding: 50% 0 0 50px;
+  transform: translate(0, -35%);
+  color: rgb(255, 255, 255);
+  font-size: 23px; 
+  font-family: "Norse";
+}

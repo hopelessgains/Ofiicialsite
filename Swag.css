@@ -1,0 +1,35 @@
+
+.swag-section {
+  position: absolute;
+  background-size: cover;
+  background-image: url("./../Images/dumbbell-1966704_1280\ \(6\).jpg");
+  height: 100vh;
+  width: calc(100vw - 250px);
+  top: 0px;
+  right: 0px;
+}
+
+.swag-curtain {
+  background-color: rgba(0,0,0,.5);
+  height: 100%;
+}
+
+.swag-text {
+  padding: 20% 0 0 50px;
+  transform: translate(0, -35%);
+  color: rgb(255, 255, 255);
+  font-size: 45px; 
+  font-family: "Norse";
+  text-align: center;
+}
+
+.axomolink{
+  text-decoration: none;
+  color: rgb(148, 5, 5);
+  font-family: "PR Viking";
+}
+
+.axomolink:hover {
+  color: white;
+  padding-right: 40px;
+ }
